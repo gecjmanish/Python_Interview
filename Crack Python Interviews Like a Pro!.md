@@ -1,31 +1,6 @@
 # Crack Python Interviews Like a Pro!
 ## Struggling with Python interview questions/concepts? 
 
-| [![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX)  | ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)  | ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) | ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) |  ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)| [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)| [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)|![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python/master?display_timestamp=committer)|![Views Counter](https://views-counter.vercel.app/badge?pageId=Tanu-N-Prabhu%2FViews-Counter)|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-
-| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/rubaitul-azad-ZIPFteu-R8k-unsplash.jpg) | 
-|:--:| 
-| Photo by <a href="https://unsplash.com/@rubaitulazad?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rubaitul Azad</a> on <a href="https://unsplash.com/photos/a-white-cube-with-a-yellow-and-blue-logo-on-it-ZIPFteu-R8k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> |
-
-This repo has got you covered with optimized solutions, step-by-step explanations, and real interview problems from top tech companies.
-
-* Master prevalent coding challenges with clear solutions
-* Learn concepts with detailed explanations & visualizations
-* Improve your skills with real-world examples & best practices
-* Start learning now, level up your coding game, and land your dream job!
-* **Follow** & **Star** this repo to stay updated with new questions!   
-
-**Stay Connected**
-
-* Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python interview questions & insights!
-* Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!
-* Got a different solution? Drop your thoughts in the discussions! Let’s learn together! 
-
-<p align = "right"> Written by <a href = "https://medium.com/@tanunprabhu95">Tanu Nanda Prabhu</a></p>
-
----
-
 ### 1) Two Sum Problem – Efficient Python Solution
 #### Problem Statement
 You are given an array of numbers and a target sum. Your task is to find the indices of the two numbers that add up to the target.
