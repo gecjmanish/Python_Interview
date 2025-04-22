@@ -270,7 +270,7 @@ print(group_anagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 <br>
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Maintained%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
+[![Maintened by - Manish](https://img.shields.io/badge/Maintained%20by-%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
