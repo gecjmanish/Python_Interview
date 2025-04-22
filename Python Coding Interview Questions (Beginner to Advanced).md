@@ -3,33 +3,33 @@
 <!-- Feature Image -->
 | ![Interview Photo](https://github.com/Tanu-N-Prabhu/Python/blob/f00cc0bfb9fbbf7482559d0ea19ae4b1d284e5af/Img/sebastian-herrmann-O2o1hzDA7iE-unsplash.jpg) | 
 |:--:| 
-| Photo by <a href="https://unsplash.com/@officestock?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sebastian Herrmann</a> on <a href="https://unsplash.com/photos/four-men-looking-to-the-paper-on-table-O2o1hzDA7iE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>|
+| Photo by <a href="[https://unsplash.com/@officestock?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash](https://www.instagram.com/gecjmanish/)">Manish</a> on <a href="[https://unsplash.com/photos/four-men-looking-to-the-paper-on-table-O2o1hzDA7iE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash](https://www.instagram.com/gecjmanish/)">Manish</a>|
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=Tanu-N-Prabhu%2FViews-Counter)
+
 
 <!-- Content-->
 
 # 📢 Stay Connected:
 
-🔗 Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python interview questions & insights!   
-📝 Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!   
+🔗 Follow me on [LinkedIn](https://www.linkedin.com/in/mkymanish/) for daily Python interview questions & insights!   
+📝 Read my articles on [Medium](https://medium.com/) for in-depth explanations & tutorials!   
 💬 Got a different solution? Drop your thoughts in the discussions! Let’s learn together! 🧠🔥
 
 
 # Table of Contents
 
-➡ [Introduction](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#introduction)
+➡ [Introduction](https://github.com/)
 
 
-➡ [Beginner Level](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-beginner-level)
+➡ [Beginner Level](https://github.com/)
 
-➡ [Advanced Level](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-advanced-level)
+➡ [Advanced Level](https://github.com/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-advanced-level)
 
-➡ [Prepare for the Worst: Most Frequently Asked Questions by Big Tech Companies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-prepare-for-the-worst-most-frequently-asked-questions-by-big-tech-companies)
+➡ [Prepare for the Worst: Most Frequently Asked Questions by Big Tech Companies](https://github.com//Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-prepare-for-the-worst-most-frequently-asked-questions-by-big-tech-companies)
 
-➡ [Python Projects That Can Land You Your Dream Job](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-python-projects-that-can-land-you-your-dream-job)
+➡ [Python Projects That Can Land You Your Dream Job](https://github.com/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-python-projects-that-can-land-you-your-dream-job)
 
-➡ [Credits](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-credits)
+➡ [Credits](https://github.com//Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-credits)
 
 
 
@@ -875,61 +875,9 @@ This solution generates all possible substrings and stores them in a set, ensuri
 
 # 👩🏻‍💻 Python Projects That Can Land You Your Dream Job 
 
-> If you use Visual Studio Code, don't forget to read about these mind-blowing [free extensions](https://medium.com/gitconnected/5-must-use-visual-studio-code-extensions-in-2025-00e121400690). 
-
-
-1. [Comparing Excel to PDF Conversion Methods with Python Hacks](https://medium.com/gitconnected/comparing-excel-to-pdf-conversion-methods-with-python-hacks-1aa7300f4bd5)
-2. [Unleashing Dog Breeds with Python for Fun and Laughs](https://medium.com/gitconnected/unleashing-dog-breeds-with-python-for-fun-and-laughs-1f9f81034969)
-3. [Ditch the Paper, Embrace Python: Build a Note-Taking App in 2025](https://medium.com/gitconnected/ditch-the-paper-embrace-python-build-a-note-taking-app-in-2025-1b1696ebed54)
-4. [Cracking Transit Data — Calgary 2025](https://medium.com/gitconnected/cracking-transit-data-calgary-2025-49baea30833e)
-5. [Webscraping vs API](https://medium.com/gitconnected/web-scraping-vs-api-which-data-extraction-method-is-best-for-your-needs-c578464d6083)
-6. [Python’s If and Else Statements](https://towardsdev.com/pythons-if-and-else-statements-3b0b0bf3ea00)
-7. [Pick-Up Line Generator using Python Dictionaries](https://towardsdev.com/pick-up-line-generator-using-python-dictionaries-f800e5477b02)
-8. [Crazy Things You Can Do With the Python Pillow Function](https://levelup.gitconnected.com/crazy-things-you-can-do-with-the-python-pillow-function-3544ea01c567)
-9. [The two Google Search Python Libraries you should never miss!](https://medium.com/analytics-vidhya/the-two-google-search-python-libraries-you-should-never-miss-dfb2ec324a33)
-10. [Presenting Python code using RISE](https://towardsdatascience.com/presenting-python-code-using-rise-d0dddd48e749)
-11. [How to handle JSON in Python?](https://towardsdatascience.com/how-to-handle-json-in-python-d877125df39b)
-12. [Using the Pandas DataFrame in Day-To-Day Life](https://towardsdatascience.com/using-the-pandas-dataframe-in-day-to-day-life-91859ee12cca)
-13. [Global, Local, and Nonlocal variables in Python](https://towardsdatascience.com/global-local-and-nonlocal-variables-in-python-6b11c20d73b0)
-14. [Rendering Images inside a Pandas DataFrame](https://towardsdatascience.com/rendering-images-inside-a-pandas-dataframe-3631a4883f60)
-15. [Reading An Image In Python (Without Using Special Libraries)](https://towardsdatascience.com/reading-an-image-in-python-without-using-special-libraries-534b57de7dd4)
-16. [Mastering the Bar Plot in Python](https://towardsdatascience.com/mastering-the-bar-plot-in-python-4c987b459053)
-17. [Python Operators from Scratch!!! — A Beginner’s Guide](https://towardsdatascience.com/python-operators-from-scratch-a-beginners-guide-8471306f4278)
-18. [Splitting the dataset into three sets](https://medium.com/analytics-vidhya/splitting-the-dataset-into-three-sets-78f419f0d608)
-19. [Normalization vs Standardization, which one is better](https://towardsdatascience.com/normalization-vs-standardization-which-one-is-better-f29e043a57eb)
-20. [Learning One-Hot Encoding in Python the Easy Way](https://towardsdatascience.com/learning-one-hot-encoding-in-python-the-easy-way-665010457ad9)
-21. [Wikipedia API for Python](https://towardsdatascience.com/wikipedia-api-for-python-241cfae09f1c)
-22. [Google Trends API for Python](https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f)
-23. [Google Translate API for Python](https://towardsdatascience.com/google-translate-api-for-python-723093c2144b)
-24. [Speech Recognition using Python](https://medium.com/analytics-vidhya/speech-recognition-using-python-bafe550ee6e9)
-25. [Learn the Python Math Module](https://levelup.gitconnected.com/learn-the-python-math-module-9c2c516ea37c)
-26. [Learn the Python len() Function](https://levelup.gitconnected.com/learn-the-python-len-function-49b20bb8edd9)
-27. [How to create NumPy arrays from scratch?](https://towardsdatascience.com/how-to-create-numpy-arrays-from-scratch-3e0341f9ffea)
-28. [Python enumerate() built-in-function](https://towardsdatascience.com/python-enumerate-built-in-function-acccf988d096)
-29. [Python Lambda Function](https://towardsdatascience.com/python-lambda-function-b6e1fa3420c1)
-30. [Python Input, Output and Import](https://towardsdatascience.com/python-input-output-and-import-73e875516694)
-31. [Is Python object-oriented?](https://towardsdatascience.com/is-python-object-oriented-834d6c70cf54)
-32. [Using the Pandas Data Frame as a Database.](https://towardsdatascience.com/using-the-pandas-data-frame-as-a-database-282edec5a3ab)
-33. [Python range() built-in-function](https://towardsdatascience.com/python-range-built-in-function-b2489ea99660)
-34. [Python eval() built-in-function](https://towardsdatascience.com/python-eval-built-in-function-601f87db191)
-35. [Top Python Libraries Used In Data Science](https://towardsdatascience.com/top-python-libraries-used-in-data-science-a58e90f1b4ba)
-36. [Predicting PewDiePie’s daily subscribers using Linear Regression](https://towardsdatascience.com/predicting-pewdiepies-daily-subscribers-using-linear-regression-15da7bd28f85)
-37. [Python Dictionary from Scratch!!!](https://towardsdatascience.com/python-dictionary-from-scratch-c41316794bcc)
-38. [How to build a basic machine learning model from scratch](https://medium.com/analytics-vidhya/building-a-machine-learning-model-to-predict-the-price-of-the-car-bc51783ba2f3)
-39. [Exploring the data using Python](https://towardsdatascience.com/exploring-the-data-using-python-47c4bc7b8fa2)
-40. [Python Tuples from Scratch !!!](https://towardsdatascience.com/python-tuples-from-scratch-43affe1751ba)
-41. [Python Strings from scratch !!!](https://towardsdatascience.com/python-strings-from-scratch-afd5ad034de8)
-42. [Exploratory data analysis in Python.](https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce)
-43. [Scraping two YouTube accounts using Python libraries.](https://medium.com/@tanunprabhu95/scraping-two-youtube-accounts-using-python-libraries-6af17f2071dd)
-44. [Web Scraping Using Python Libraries](https://towardsdatascience.com/web-scraping-using-python-libraries-fe3037152ed1)
-45. [Python Pandas Data Frame Basics](https://towardsdatascience.com/python-pandas-data-frame-basics-b5cfbcd8c039)
-46. [Python Lists from Scratch](https://towardsdatascience.com/python-lists-from-scratch-4b958eb956fc)
-47. [Manipulating the data with Pandas using Python](https://towardsdatascience.com/manipulating-the-data-with-pandas-using-python-be6c5dfabd47)
-48. [Data Cleaning using Python with Pandas Library](https://towardsdatascience.com/data-cleaning-with-python-using-pandas-library-c6f4a68ea8eb)
-    
 
 # 🙌 Credits
-This repository is created and maintained by [Tanu N Prabhu](https://medium.com/@tanunprabhu95). With a passion for programming and education, I aim to provide valuable resources to help others succeed in their Python journey.
+This repository is created and maintained by [Manish](https://medium.com/). With a passion for programming and education, I aim to provide valuable resources to help others succeed in their Python journey.
 
 Feel free to explore, contribute, and share your feedback. Happy coding! 😊👩‍💻👨‍💻
 
@@ -941,8 +889,8 @@ Feel free to explore, contribute, and share your feedback. Happy coding! 😊�
 <br>
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Maintained%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Maintened by - Manish](https://img.shields.io/badge/Maintained)](https://github.io/myWebsite.io/)
+
 
 
 
